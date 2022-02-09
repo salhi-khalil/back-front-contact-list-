@@ -1,0 +1,21 @@
+- create a react app in the same folder named client
+- npm i concurrently 
+- make the change for package.json
+- create component file
+
+1- le navbar sera le component home ...  le premier a importer
+https://codepen.io/yuhomyan/pen/WNwGywp
+
+2- creer la carte  card 
+https://codepen.io/arti2002/pen/LYRxeOG
+
+3- input  component add
+
+https://codepen.io/prathkum/pen/OJRvVzY
+
+4- install the router and make the app inside the router
+
+5- give a link in home ( contact and add contact )
+
+6 - create the route on the app.js
+
